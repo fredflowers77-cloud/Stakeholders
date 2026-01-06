@@ -1,5 +1,9 @@
 This work was completed as part of the IBM Program Management curriculum on Coursera…
 
+<div class="typing">
+We are deeply grateful to our incredible instructors for their dedication and support 🫱🫲
+</div>
+
 
 This repository documents ADR-0002, an Architecture Decision Record that establishes the baseline governance framework for program stakeholder management and communications planning.
 
