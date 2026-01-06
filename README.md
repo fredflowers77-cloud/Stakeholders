@@ -8,9 +8,12 @@ The following execution artifacts support ADR-0002 and are maintained as Excel w
 These files are uploaded separately to preserve Excel formatting and data integrity.
 
 ## Maintenance
-This ADR is maintained as a living decision record.
-Artifact updates are versioned through Git commit history.
 
+This Architecture Decision Record (ADR) is maintained as a living
+governance artifact. Supporting execution artifacts (e.g., stakeholder
+registers and communications plans) are updated as the program evolves
+and are version-controlled through Git commit history to preserve
+traceability, accountability, and audit readiness.
 ## Baseline
 
 ADR-0002 was baselined under tag `adr-0002-baseline`.
