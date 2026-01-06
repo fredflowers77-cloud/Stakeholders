@@ -1,0 +1,8 @@
+/ (repo root)
+├── README.md
+├── LICENSE
+├── .gitignore
+├── EXECUTIVE_SUMMARY.md
+├── /artifacts
+│   ├── ADR0002_Stakeholder_Register.xlsx
+│   └── ADR0002_Communications_Plan.xlsx
