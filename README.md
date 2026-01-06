@@ -6,3 +6,7 @@ The following execution artifacts support ADR-0002 and are maintained as Excel w
 - `artifacts/ADR0002_Communications_Plan.xlsx`
 
 These files are uploaded separately to preserve Excel formatting and data integrity.
+
+## Maintenance
+This ADR is maintained as a living decision record.
+Artifact updates are versioned through Git commit history.
