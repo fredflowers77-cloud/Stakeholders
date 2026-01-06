@@ -10,3 +10,12 @@ These files are uploaded separately to preserve Excel formatting and data integr
 ## Maintenance
 This ADR is maintained as a living decision record.
 Artifact updates are versioned through Git commit history.
+
+## Baseline
+
+ADR-0002 was baselined under tag `adr-0002-baseline`.
+This baseline represents the approved and immutable starting point
+for the decision.
+
+All subsequent updates are post-baseline and do not alter the
+approved structure or intent of ADR-0002.
