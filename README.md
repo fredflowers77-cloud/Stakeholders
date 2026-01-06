@@ -1,12 +1,8 @@
-# Stakeholders
-Program Stakeholder Register & Communications Management Plan
-Status: Accepted · FDF Certified™ · PMO-Compliant
-Author: Program Management Function
-Date: 2026-01-05
-Repository Type: Enterprise Program Artifact
+## Artifacts
 
+The following execution artifacts support ADR-0002 and are maintained as Excel workbooks:
 
-The organization is executing two parallel but related programs: 
-1: Employee Morale &amp; Engagement 
-2: Wellness, Work-Life Balance, and Recognition &amp; 
--Rewards Both programs share common stakeholders, governance needs, and reporting structures, while also requiring program-specific ownership and communications.
+- `artifacts/ADR0002_Stakeholder_Register.xlsx`
+- `artifacts/ADR0002_Communications_Plan.xlsx`
+
+These files are uploaded separately to preserve Excel formatting and data integrity.
